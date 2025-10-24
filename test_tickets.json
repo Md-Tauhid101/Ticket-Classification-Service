@@ -1,0 +1,17 @@
+[
+  {
+    "channel": "email",
+    "severity": "high",
+    "summary": "System throws an exception when customer connects to bank API"
+  },
+  {
+    "channel": "chat",
+    "severity": "low",
+    "summary": "Customer unable to configure OTP verification on dashboard"
+  },
+  {
+    "channel": "web",
+    "severity": "medium",
+    "summary": "Unexpected behavior observed, might be user error"
+  }
+]
